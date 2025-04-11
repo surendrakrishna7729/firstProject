@@ -89,3 +89,6 @@ function areaAnagrams(st1, st2){
 
 const angram = areaAnagrams('ilstern', 'listern');
 console.log(angram);
+
+
+// test surendra check git status
